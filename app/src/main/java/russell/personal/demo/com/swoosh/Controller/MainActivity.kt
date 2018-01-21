@@ -1,9 +1,9 @@
-package russell.personal.demo.com.swoosh
+package russell.personal.demo.com.swoosh.Controller
 
 import android.content.Intent
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import kotlinx.android.synthetic.main.activity_main.*
+import russell.personal.demo.com.swoosh.R
 
 class MainActivity : BaseActivity() {
 

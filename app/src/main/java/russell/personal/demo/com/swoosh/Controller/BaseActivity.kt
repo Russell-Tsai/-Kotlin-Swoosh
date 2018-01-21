@@ -1,4 +1,4 @@
-package russell.personal.demo.com.swoosh
+package russell.personal.demo.com.swoosh.Controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
